@@ -1,0 +1,11 @@
+from 02/11/2025
+to run file: 
+1. Install NodeJS on command line
+2. Place file you want to convert in the same folder as "htmlCode.js"
+3. in the terminal, travel to the folder where these files are stored
+4. run command=> node htmlCode "file to convert"
+5. New file will be created with "-kobo" ammended to the new file
+
+Future modifications:
+ A. Modify script to edit .epub files so you don't have to manually remove HTML files from the epub
+ B. Create a single page website that spits out a modified file.
